@@ -1,0 +1,20 @@
+Em matemática, os limites são usados para descrever o comportamento de uma função à medida que a variável independente se aproxima de um valor específico ou infinito.
+
+O conceito de limite é fundamental para o cálculo diferencial e integral, e é essencial para entender a continuidade das funções.
+
+Um limite pode ser definido como o valor para o qual uma função se aproxima quando a variável independente se aproxima de um determinado valor ou quando se aproxima do infinito. Existem diferentes tipos de limites, tais como:
+
+    Limite finito: quando a função se aproxima de um valor finito à medida que a variável independente se aproxima de um determinado valor.
+    Limite infinito: quando a função se aproxima do infinito positivo ou negativo à medida que a variável independente se aproxima de um determinado valor.
+    Limite lateral: quando a função se aproxima de diferentes valores à medida que a variável independente se aproxima de um mesmo valor pela esquerda e pela direita.
+    Limite de uma função em um ponto: quando a função é avaliada em um ponto específico.
+
+Os limites são fundamentais para a análise de funções complexas e para a resolução de problemas em diferentes áreas da matemática, física e engenharia.
+
+Em Machine Learning (ML), o conceito de limites é importante para entender o comportamento de algoritmos de aprendizado de máquina em relação a um grande conjunto de dados ou a um modelo complexo.
+
+Em termos gerais, os limites em ML referem-se à capacidade de um algoritmo de ajustar um modelo de maneira que minimize o erro e a variância, maximizando, ao mesmo tempo, a capacidade de generalização.
+
+O conceito de limites está relacionado a questões como a escolha do melhor modelo, o balanceamento entre o viés e a variância do modelo, e a capacidade do modelo de se ajustar a diferentes conjuntos de dados.
+
+Ao compreender o conceito de limites em ML, os profissionais podem escolher e ajustar modelos mais eficientes, evitar overfitting ou underfitting e criar modelos que possam ser aplicados a diferentes conjuntos de dados e situações.
